@@ -127,7 +127,7 @@ ReactDOM.render(
         <div class="copyright">
 					<ul class="icons">
 						<li><a href="https://www.facebook.com/melissa.t.clark.50/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://www.instagram.com/melissa_mofei/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://www.instagram.com/melissalpaca/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 					<div>Cellphone: 0917801088 </div>
 					<div>Email: hypermofei0801@gmail.com</div>
